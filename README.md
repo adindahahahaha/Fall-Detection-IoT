@@ -37,7 +37,7 @@ With features like fall history tracking, machine learning-based detection, and 
 
 ### **Development Tools**
 - **IDE**: Android Studio, Arduino IDE
-- **Frameworks**: TensorFlow Lite, Node.js
+- **Frameworks**: TensorFlow Lite
 - **Prototyping Tools**: Figma for UI/UX designs
 
 ---
