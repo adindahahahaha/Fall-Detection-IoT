@@ -1,0 +1,14 @@
+{
+    "name": "cloud-functions",
+    "version": "1.0.0",
+    "main": "index.js",
+    "dependencies": {
+      "firebase-admin": "^11.4.1",
+      "firebase-functions": "^4.2.0"
+    },
+    "scripts": {
+      "start": "firebase emulators:start",
+      "deploy": "firebase deploy --only functions"
+    }
+  }
+  
