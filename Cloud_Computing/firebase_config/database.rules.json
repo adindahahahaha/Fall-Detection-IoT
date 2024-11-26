@@ -1,0 +1,12 @@
+{
+    "rules": {
+      ".read": "auth != null",
+      ".write": "auth != null",
+      "falls": {
+        "$fallId": {
+          ".validate": "newData.child('timestamp').exists()"
+        }
+      }
+    }
+  }
+  
