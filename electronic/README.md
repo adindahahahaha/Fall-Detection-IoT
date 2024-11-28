@@ -5,9 +5,14 @@ This project focuses on the development of a fall detection system for the elder
 ## Introduction
 Elderly individuals often experience a decline in physical functions, which limits their ability to perform daily activities. Balance disorders significantly increase the risk of falls, which can lead to severe consequences, including fatalities. Falls among elderly individuals are particularly dangerous due to the potential for complications arising from pre-existing conditions. Quick response times are crucial, as immediate medical attention within the "golden time" can prevent further health deterioration.
 
+## Introduction
+Elderly individuals often experience a decline in physical functions, which limits their ability to perform daily activities. Balance disorders significantly increase the risk of falls, which can lead to severe consequences, including fatalities. Falls among elderly individuals are particularly dangerous due to the potential for complications arising from pre-existing conditions. Quick response times are crucial, as immediate medical attention within the "golden time" can prevent further health deterioration.
+
 In Indonesia (2023):  
 - **28-35%** of individuals aged 65+ experience falls annually.  
 - **32-42%** of individuals aged 70+ experience falls annually.  
+
+*Source: Salsabila, S. (2024). *Gambaran Tingkat Risiko Jatuh pada Lansia Berdasarkan Berg Balance Scale di Puskesmas Muara Dua Kota Lhokseumawe 2023* (Doctoral dissertation, Universitas Malikussaleh).*
 
 This project aims to mitigate such risks by developing a reliable fall detection system that ensures timely assistance and reduces fatal outcomes.
 
@@ -38,7 +43,11 @@ This project aims to mitigate such risks by developing a reliable fall detection
 - Real-time fall detection and alerting.  
 - Machine learning-based motion analysis for improved accuracy.  
 - Lightweight and portable system design.  
-- Integration with a mobile application for instant notifications and event history tracking.  
+- Integration with a mobile application for instant notifications and event history tracking.
+
+## Schematic Design
+The schematic design can be seen in the following image:
+
 
 ## Scematic Design 
 The schematic design can be seen at '' file
