@@ -9,6 +9,8 @@ In Indonesia (2023):
 - **28-35%** of individuals aged 65+ experience falls annually.  
 - **32-42%** of individuals aged 70+ experience falls annually.  
 
+*Source: Salsabila, S. (2024). *Gambaran Tingkat Risiko Jatuh pada Lansia Berdasarkan Berg Balance Scale di Puskesmas Muara Dua Kota Lhokseumawe 2023* (Doctoral dissertation, Universitas Malikussaleh).*
+
 This project aims to mitigate such risks by developing a reliable fall detection system that ensures timely assistance and reduces fatal outcomes.
 
 ## Components
@@ -41,4 +43,4 @@ This project aims to mitigate such risks by developing a reliable fall detection
 - Integration with a mobile application for instant notifications and event history tracking.  
 
 ## Scematic Design 
-The schematic design can be seen at '' file
+The schematic design can be seen in the following image: ![Schematic Design](https://github.com/user-attachments/assets/43a23409-976c-47a9-b0d9-8fc2375d2083)
