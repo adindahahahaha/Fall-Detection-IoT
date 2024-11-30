@@ -1,4 +1,4 @@
-# Tim Mobile Development
+# Tim Mobile Development C242-PS251 Bangkit Academy 2024
 
 ## Anggota Tim
 
@@ -12,10 +12,12 @@
 Untuk dokumentasi terkait role **Mobile Development**, silakan lihat di [repo GitHub Mobile Development](https://github.com/zulfanurmalaa/Mobile_Development).
 
 ## Tentang Tim
-Tim **Mobile Development** terdiri dari dua anggota yaitu Zulfa Nurmala dan Adinda Zahra Febriani. Kami berfokus pada pengembangan aplikasi mobile dengan menggunakan teknologi terkini. Dalam dokumentasi ini, Anda akan menemukan berbagai proyek, panduan, dan tutorial terkait pengembangan aplikasi mobile yang kami kerjakan.
+Tim **Mobile Development** C242-PS251 Bangkit Academy 2024 terdiri dari dua anggota, **Zulfa Nurmala** dan **Adinda Zahra Febriani**.
 
 ---
 
-> "Inovasi dalam pengembangan aplikasi mobile dimulai dengan kolaborasi yang kuat." - Tim Mobile Development
+> "Inovasi dalam pengembangan aplikasi mobile dimulai dengan kolaborasi yang kuat."  
+> - Tim Mobile Development C242-PS251 Bangkit Academy 2024
+
 
 
