@@ -1,16 +1,16 @@
-# Safe Guard: Empowering Elderly Safety with IoT
+# SAFELINE: Smart Alert and Fall-detection Electronic device with Learning and IOT for Elders
 
-**Safe Guard** is a comprehensive IoT solution designed to address fall detection challenges for elderly individuals. By combining advanced sensor technology with real-time mobile notifications, Safe Guard provides a reliable system to enhance safety and peace of mind for users and their families.
+**SAFELINE** is a comprehensive IoT solution designed to address fall detection challenges for elderly individuals. By combining advanced sensor technology with real-time mobile notifications, SAFELINE provides a reliable system to enhance safety and peace of mind for users and their families.
 
-This innovative application focuses on empowering communities, particularly elderly and vulnerable groups, by ensuring swift responses during emergencies. Through accurate fall detection and instant alerts, Safe Guard is your companion for safer and healthier living.
+This innovative application focuses on empowering communities, particularly elderly and vulnerable groups, by ensuring swift responses during emergencies. Through accurate fall detection and instant alerts, SAFELINE is your companion for safer and healthier living.
 
 ---
 
-## 🌟 **About Safe Guard**
+## 🌟 **About SAFELINE**
 
-Falls are one of the leading causes of injury among elderly populations. Research shows that timely medical attention during the "golden hour" significantly improves recovery chances. Safe Guard addresses this critical need by detecting falls in real-time and instantly notifying caregivers or family members.
+Falls are one of the leading causes of injury among elderly populations. Research shows that timely medical attention during the "golden hour" significantly improves recovery chances. SAFELINE addresses this critical need by detecting falls in real-time and instantly notifying caregivers or family members.
 
-With features like fall history tracking, machine learning-based detection, and seamless cloud integration, Safe Guard bridges the gap between safety and accessibility.
+With features like fall history tracking, machine learning-based detection, and seamless cloud integration, SAFELINE bridges the gap between safety and accessibility.
 
 ---
 
@@ -93,7 +93,7 @@ With features like fall history tracking, machine learning-based detection, and 
 
 ## 🌍 **Impact and Vision**
 
-**Safe Guard** is more than a technological solution; it's a step towards enhancing the quality of life for elderly individuals. By leveraging IoT and cloud technologies, we aim to create safer environments and foster a culture of care and responsibility in our communities.
+**SAFELINE** is more than a technological solution; it's a step towards enhancing the quality of life for elderly individuals. By leveraging IoT and cloud technologies, we aim to create safer environments and foster a culture of care and responsibility in our communities.
 
 
-Let’s make safety a priority with **Safe Guard**!
+Let’s make safety a priority with **SAFELINE**!
