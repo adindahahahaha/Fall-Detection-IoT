@@ -67,15 +67,15 @@ With features like fall history tracking, machine learning-based detection, and 
 
 ## 👩‍💻 **Team Members**
 
-| Role  | Name                           | University                       | Status  |
-|-------|--------------------------------|----------------------------------|---------|
-| ML    | Asyral Nur Azis                | Institut Teknologi Sepuluh Nopember | Active  |
-| ML    | Emil Reginald Bowo             | Institut Teknologi Sepuluh Nopember | Active  |
-| ML    | Moh. Noval Wahyu Aji           | Institut Teknologi Sepuluh Nopember | Active  |
-| CC    | Anastasia Jemima Walanda Kaunang | Universitas Advent Indonesia    | Active  |
-| CC    | Hadellya Fhiladelvya Toding Datu | Universitas Advent Indonesia    | Active  |
-| MD    | Adinda Zahra Febriani          | Telkom University                | Active  |
-| MD    | Zulfa Nurmala                  | Telkom University                | Active  |
+| Role | Name                            | University                        | Status | GitHub                                  |
+|------|---------------------------------|-----------------------------------|--------|-----------------------------------------|
+| ML   | Asyral Nur Azis                 | Institut Teknologi Sepuluh Nopember | Active |                               |
+| ML   | Emil Reginald Bowo              | Institut Teknologi Sepuluh Nopember | Active |                              |
+| ML   | Moh. Noval Wahyu Aji            | Institut Teknologi Sepuluh Nopember | Active | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/novalwahyu) |
+| CC   | Anastasia Jemima Walanda Kaunang| Universitas Advent Indonesia       | Active |                               |
+| CC   | Hadellya Fhiladelvya Toding Datu| Universitas Advent Indonesia       | Active | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hadelkim3) |
+| MD   | Adinda Zahra Febriani           | Telkom University                  | Active | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adindahahahaha) |
+| MD   | Zulfa Nurmala                   | Telkom University                  | Active | [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zulfanurmalaa) |
 
 ---
 
