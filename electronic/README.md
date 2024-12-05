@@ -35,9 +35,14 @@ This project aims to mitigate such risks by developing a reliable fall detection
 - Real-time fall detection and alerting.  
 - Machine learning-based motion analysis for improved accuracy.  
 - Lightweight and portable system design.  
+
+## Percobaan Alat
 - Integration with a mobile application for instant notifications and event history tracking.  
 
 ## Schematic Design 
 The schematic design can be seen in the following image:  
 ![Schematic Design](https://github.com/user-attachments/assets/1dbe3850-54cb-4323-8a48-089a111acfec)  
 *The schematic design was created using Fritzing.*
+
+## Percobaan Alat
+https://drive.google.com/drive/folders/11pcH7gd18HzQFJxI3yjs_2Pk5uwsSfff?usp=sharing
