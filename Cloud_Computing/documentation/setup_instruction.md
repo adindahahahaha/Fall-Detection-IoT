@@ -139,16 +139,6 @@ For further debugging, ensure all Firebase services are enabled in the Firebase 
 
 ---
 
-## **9. Contact and Support**
-
-If you need assistance, feel free to contact the team:
-
-- **Anastasia Kaunang**: [LinkedIn](https://www.linkedin.com/in/anastasiakaunang)
-- **Hadellya Fhiladelvya**: [LinkedIn](https://www.linkedin.com/in/hadellya-fhiladelvya-toding-datu-690036294)
-```
-
----
-
 ### **How to Use**
 1. Save this file as `setup_instruction.md` in the `documentation` folder of your GitHub project.
 2. Update placeholders like `your-repo`, `your_api_key`, and `your_project_id` with actual values from your Firebase project.
