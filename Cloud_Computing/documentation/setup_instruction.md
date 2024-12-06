@@ -155,5 +155,3 @@ If you need assistance, feel free to contact the team:
 ### **How to Use**
 1. Save this file as `setup_instruction.md` in the `documentation` folder of your GitHub project.
 2. Update placeholders like `your-repo`, `your_api_key`, and `your_project_id` with actual values from your Firebase project.
-
-This version is detailed, comprehensive, and ready to upload to your GitHub repository. Let me know if you need further adjustments!
