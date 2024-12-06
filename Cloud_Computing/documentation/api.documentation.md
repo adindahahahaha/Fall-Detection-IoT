@@ -1,6 +1,3 @@
-### **`api_documentation.md`**
-
-```markdown
 # API Documentation for Cloud Computing Project
 
 This document describes the available APIs and triggers for the project.
@@ -111,14 +108,6 @@ Devices subscribed to this topic receive notifications for detected falls.
 |------|-----------------------------|
 | 200  | Notification sent successfully |
 | 500  | Failed to send notification |
-
----
-
-## **Contact**
-For API-related queries, contact:
-- **Anastasia Kaunang**: [LinkedIn](https://www.linkedin.com/in/anastasiakaunang)
-- **Hadellya Fhiladelvya**: [LinkedIn](https://www.linkedin.com/in/hadellya-fhiladelvya-toding-datu-690036294)
-```
 
 ---
 
