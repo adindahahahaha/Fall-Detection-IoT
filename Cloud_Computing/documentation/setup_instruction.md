@@ -1,8 +1,6 @@
-### **`setup_instruction.md`**
-
 # Setup Instructions for Cloud Computing Project
 
-This document provides a step-by-step guide to set up and deploy the project, including backend services, Firebase configuration, and any dependencies.
+Here's a step-by-step guide to set up and deploy the project, including backend services, Firebase configuration, and any dependencies.
 
 ---
 
