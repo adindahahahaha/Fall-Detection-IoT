@@ -9,7 +9,7 @@
 
 ## Dokumentasi
 
-Untuk dokumentasi terkait role **Mobile Development**, silakan lihat di [repo GitHub Mobile Development](https://github.com/zulfanurmalaa/Mobile_Development).
+Untuk dokumentasi terkait role **Mobile Development**, silakan lihat di [repo GitHub Mobile Development](https://github.com/zulfanurmalaa/SAFELINEAPP).
 
 ## Tentang Tim
 Tim **Mobile Development** C242-PS251 Bangkit Academy 2024 terdiri dari dua anggota, **Zulfa Nurmala** dan **Adinda Zahra Febriani**.
