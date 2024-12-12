@@ -23,8 +23,18 @@ The **Cloud Computing Team C242-PS251** of Bangkit Academy 2024 consists of two 
 Here is the detailed distribution of roles and contributions for the project:
 
 ### 1. **Backend Development**
-- Backend functionality was developed by **Anastasia Kaunang** using **Visual Studio Code (VS Code)**.
-- The backend code includes Firestore triggers and HTTP endpoints to handle user detection and notification services.
+
+The backend functionality was developed using **Visual Studio Code (VS Code)**. Its primary purpose was to set up **Firebase** as the core backend service, integrating with the mobile application.
+
+#### Features
+1. **Firebase Realtime Database**  
+   - Used to store and retrieve data processed by the machine learning model, making it accessible for the mobile app.
+
+2. **Firebase Cloud Messaging (FCM)**  
+   - Implemented for push notifications, though the feature encountered some challenges.
+
+#### Role in the Project
+The mobile application retrieves JSON data from Firebase to deliver fall detection results. The backend serves as the bridge between machine learning data processing and mobile app integration.
 
 ### 2. **Repository Management**
 - The backend code was uploaded and managed in the **GitHub repository** by **Hadellya Fhiladevya** to ensure version control and streamlined collaboration.
