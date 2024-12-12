@@ -1,4 +1,4 @@
-# SAFELINE: Smart Alert and Fall-detection Electronic device with Learning and IOT for Elders
+# (FALL-GUARD) SAFELINE: Smart Alert and Fall-detection Electronic device with Learning and IOT for Elders
 
 **SAFELINE** is a comprehensive IoT solution designed to address fall detection challenges for elderly individuals. By combining advanced sensor technology with real-time mobile notifications, SAFELINE provides a reliable system to enhance safety and peace of mind for users and their families.
 
