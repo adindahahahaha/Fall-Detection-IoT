@@ -9,6 +9,43 @@ In Indonesia (2023):
 
 This project aims to mitigate such risks by developing a reliable fall detection system that ensures timely assistance and reduces fatal outcomes.
 
+## Existing Result
+
+### Product Name
+"Android-Based Fall Detection Application"
+
+### Summary
+This is an Android application utilizing a smartphone's tri-axial accelerometer and a threshold-based algorithm for real-time fall detection. The system sends notifications to caregivers via SMS or phone calls.
+
+### Missing Elements
+- **Design**:  
+  - Lacks a wearable device for improved comfort and usability.  
+
+- **Algorithm**:  
+  - High false positives and no advanced algorithms (e.g., machine learning) for better accuracy.  
+
+- **Features**:  
+  - No profile settings for user personalization.  
+  - Lacks fall history or real-time condition tracking with timestamps.  
+  - No cloud integration for advanced data storage and analysis.
+
+### Improvements Suggested
+The following improvements can address the missing elements:
+1. **Wearable Integration**:  
+   Develop a compact and lightweight wearable device using MPU6050 (accelerometer and gyroscope) and ESP32. This ensures better usability for elderly users.
+   
+2. **Algorithm Optimization**:  
+   Implement machine learning-based fall detection for better accuracy and reduced false positives.
+   
+3. **Feature Enhancements**:  
+   - Profile management (e.g., name, photo, phone number).  
+   - Real-time condition tracking (e.g., walking, idle, falling) with timestamps.  
+   - Fall history and grouping by date.  
+   - Integration with Firebase for real-time notifications and data storage.
+
+### References
+H. Shojaei, M. S. Moin, and N. Sadoughi, "Fall Detection Using Smartphone-Based Application," *2020 IEEE International Conference on Smart Technologies and Systems for the Elderly (STSE)*, 2020, pp. 1–6. DOI: [10.1109/STSE2020](https://doi.org/10.1109/STSE2020).
+
 ## Components
 1. **MPU6050 Sensor**  
    - This sensor integrates an accelerometer and a gyroscope to monitor motion and orientation.  
@@ -44,5 +81,5 @@ The schematic design can be seen in the following image:
 ![Schematic Design](https://github.com/user-attachments/assets/1dbe3850-54cb-4323-8a48-089a111acfec)  
 *The schematic design was created using Fritzing.*
 
-## Percobaan Alat
+## Device Testing
 https://drive.google.com/drive/folders/11pcH7gd18HzQFJxI3yjs_2Pk5uwsSfff?usp=sharing
