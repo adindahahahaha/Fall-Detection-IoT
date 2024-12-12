@@ -31,8 +31,8 @@ Here is the detailed distribution of roles and contributions for the project:
 
 ### 3. **Firebase Project Setup**
 - The Firebase project setup was performed collaboratively by **Hadellya** and **Anastasia**:
-  - **First Attempt**: Configuration using Hadellya's Firebase account failed due to deployment issues.
-  - **Second Attempt**: Successfully configured and deployed the project using **Anastasia's Firebase account**. The project was then shared with all team members.
+  - **First Attempt**: Configuration failed due to deployment issues.
+  - **Second Attempt**: Successfully configured and deployed the project. The project was then shared with all team members.
 
 ### 4. **System Architecture Design**
 - The **system architecture diagram** was created by **Anastasia Kaunang**, providing a clear visual representation of the project’s workflow and cloud architecture.
